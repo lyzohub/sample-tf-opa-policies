@@ -4,5 +4,5 @@ package terraform
 deny[reason] {
     true
 
-    reason := "fail"
+    reason := "fail_test"
 }
